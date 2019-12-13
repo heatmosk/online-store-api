@@ -2,5 +2,7 @@
   "result": 1,
   "product_name": "Ноутбук",
   "product_price": 45600,
-  "product_description": "Мощный игровой ноутбук"
+  "product_description": "Мощный игровой ноутбук",
+  "product_image_big" : "https://raw.githubusercontent.com/heatmosk/online-store-api/master/responses/200x150.png",
+  "product_image_small" : "https://raw.githubusercontent.com/heatmosk/online-store-api/master/responses/100x80.png"
 }

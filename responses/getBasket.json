@@ -6,13 +6,17 @@
       "id_product": 123,
       "product_name": "Ноутбук",
       "price": 45600,
-      "quantity": 1
+      "quantity": 1,
+      "product_image_big" : "https://raw.githubusercontent.com/heatmosk/online-store-api/master/responses/200x150.png",
+      "product_image_small" : "https://raw.githubusercontent.com/heatmosk/online-store-api/master/responses/100x80.png"
     },
     {
       "id_product": 456,
       "product_name": "Мышка",
       "price": 1000,
-      "quantity": 1
+      "quantity": 1,
+      "product_image_big" : "https://raw.githubusercontent.com/heatmosk/online-store-api/master/responses/200x150.png",
+      "product_image_small" : "https://raw.githubusercontent.com/heatmosk/online-store-api/master/responses/100x80.png"
     }
   ]
 }
