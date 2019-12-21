@@ -26,5 +26,19 @@
     "price": 35000,
     "product_image_big" : "https://raw.githubusercontent.com/heatmosk/online-store-api/master/responses/200x150.png",
     "product_image_small" : "https://raw.githubusercontent.com/heatmosk/online-store-api/master/responses/100x80.png"
+  },
+  {
+    "id_product": 1213,
+    "product_name": "Патчкорд 100м",
+    "price": 5000,
+    "product_image_big" : "https://raw.githubusercontent.com/heatmosk/online-store-api/master/responses/200x150.png",
+    "product_image_small" : "https://raw.githubusercontent.com/heatmosk/online-store-api/master/responses/100x80.png"
+  },
+  {
+    "id_product": 1415,
+    "product_name": "Флешка",
+    "price": 1500,
+    "product_image_big" : "https://raw.githubusercontent.com/heatmosk/online-store-api/master/responses/200x150.png",
+    "product_image_small" : "https://raw.githubusercontent.com/heatmosk/online-store-api/master/responses/100x80.png"
   }
 ]
